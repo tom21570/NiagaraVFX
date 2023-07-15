@@ -1,0 +1,7 @@
+2023/06/06-21:37:25.851 4ab0 Reusing MANIFEST C:/Users/WJH/Desktop/Unreal Engine Main Projects/NiagaraVFX/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/06-21:37:25.855 4ab0 Recovering log #3
+2023/06/06-21:37:25.855 4ab0 Reusing old log C:/Users/WJH/Desktop/Unreal Engine Main Projects/NiagaraVFX/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2023/06/06-21:38:42.047 4ab0 Level-0 table #5: started
+2023/06/06-21:38:42.062 4ab0 Level-0 table #5: 1167 bytes OK
+2023/06/06-21:38:42.067 4ab0 Delete type=0 #3
+2023/06/06-21:38:42.067 4ab0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
